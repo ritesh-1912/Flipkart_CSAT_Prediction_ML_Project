@@ -75,6 +75,3 @@ The project is implemented in **Python** using the following libraries:
 
 ## 🤝 Contribution
 This project was developed as an individual Machine Learning Capstone Project. Contributions and feedback are welcome!
-
----
-*Created by Ritesh Garg*
