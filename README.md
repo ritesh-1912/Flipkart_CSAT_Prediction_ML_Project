@@ -1,5 +1,3 @@
-# Flipkart_CSAT_Prediction_ML_Project
-
 # Flipkart Customer Satisfaction Analysis (Machine Learning Capstone)
 
 ## 📌 Project Overview
