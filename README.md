@@ -70,6 +70,6 @@ The project is implemented in **Python** using the following libraries:
     ```bash
     jupyter notebook Flipkart_Project_Innovexis.ipynb
     ```
-
+    
 ## 🤝 Contribution
 This project was developed as an individual Machine Learning Capstone Project. Contributions and feedback are welcome!
